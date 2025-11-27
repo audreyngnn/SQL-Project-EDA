@@ -1,4 +1,4 @@
-# Furniture E-Commerce Sales Analytics - SQL Project
+# Furniture E-Commerce Sales Analytics ✧
 
 ## 📈Overview
 This project demonstrates advanced SQL Server capabilities through comprehensive analysis of furniture e-commerce sales data, focusing on business intelligence insights critical for data-driven decision-making in the furniture retail industry.
