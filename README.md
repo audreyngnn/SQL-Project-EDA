@@ -4,7 +4,7 @@
 This project demonstrates advanced SQL Server capabilities through comprehensive analysis of furniture e-commerce sales data, focusing on business intelligence insights critical for data-driven decision-making in the furniture retail industry.
 
 ## ✎Business Context
-Analyzed multi-dimensional furniture sales data across office supplies, technology, and furniture categories, examining customer segments, employee performance, and geographic distribution to uncover actionable insights for revenue optimization and inventory management in the furniture retail sector.
+Analyzed furniture sales data across office supplies, technology, and furniture categories, examining customer segments, employee performance, and geographic distribution to uncover actionable insights for revenue optimization and inventory management.
 
 ## 🎯Key Analytics Delivered
 
